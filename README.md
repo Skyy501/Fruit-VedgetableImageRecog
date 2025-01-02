@@ -3,4 +3,5 @@
 The dataset are divided into 3 classes, train, test, validation. it contains Fruits like Banana, Apple, Pear, Grapes, Orange, Kiwi, Watermelon, Pomegranate, Pineapple, Mango AND Vegetables like Cucumber, Carrot, Capsicum, Onion, Potato, Lemon, Tomato, Radish, Beetroot, Cabbage, Lettuce, Spinach, Soybean, Cauliflower, Bell Pepper, Chilli Pepper, Turnip, Corn, Sweetcorn, Sweet Potato, Paprika, Jalapeño, Ginger, Garlic, Peas, Eggplant
 
 In short, this model has the overall accuracy of 96.94%. this model also include classification report that shows "Precision", "Recall", "F1-Score", "Support"
+
 ![Screenshot 2025-01-02 223010](https://github.com/user-attachments/assets/472eb450-8bf7-4695-8e3d-e92915e0fa72)
